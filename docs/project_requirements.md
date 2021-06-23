@@ -13,3 +13,9 @@
 - Payment? Mobile money? Country? pay by cash ? Do they pay the service provider directly? Any app commission? Any restrictions of not remitting cash to app? A check if money comes directly to the app.? penalty for not remitting.
 
 - Who does the payment? service provider/client? client pays service provider, then service provider pays commission to the app.
+
+- Home page option: popular services -> Different service categories -> Menu that links to service provider profile
+
+- Menu option : option to provider profile -> offers option  -> booking history(Accept or reject) -> chat option -> edit profile option -> Help option
+
+- Service provider Profile -> add provider profile picture -> provider informationn -> Revenue
